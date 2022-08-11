@@ -7,7 +7,7 @@ export default function Article({title,imgLink,price}) {
            <div className="w-6/12 flex flex-col gap-2 items-start text-right">
              <h1 className="text-xl">{title}</h1>
              <h1 className='text-md text-red-500'>Cena: {price}</h1>
-              <div class="flex w-full justify-around">
+              <div className="flex w-full justify-around">
                 <button className='py-2 px-3 w-full hover:bg-blue-600 bg-blue-800'>Add to Chart</button>
              
               </div>

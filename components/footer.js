@@ -7,7 +7,7 @@ export default function Footer() {
         <div className='flex flex relative z-50  gap-16 px-4 py-2 items-baseline '>
            <div>
            <h1 className='text-2xl font-bold text-white ' >Ecommerce projekat</h1>
-            <h1  className='text-xl font-thin text-white'>Napravio: <a className=' underline' href='https://www.linkedin.com/in/nikola-mrsic-design/' target={'_blank'}>Nikola Mrsic</a></h1>
+            <h1  className='text-xl font-thin text-white'>Napravio: <a className=' underline' rel="noreferrer" href='https://www.linkedin.com/in/nikola-mrsic-design/' target={'_blank'}>Nikola Mrsic</a></h1>
            </div>
             <ul>
             <li className='text-white font-bold text-xl'>Tehnologije:</li>
