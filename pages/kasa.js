@@ -46,7 +46,7 @@ const RemoveIcon = () => {
   );
 };
 
-export default function kasa() {
+export default function Kasa() {
   let korpa = useCorpa();
   let ruter = useRouter();
   let [artikli, setAtikli] = useState([]);
