@@ -24,5 +24,17 @@
     "eslint-config-next": "12.2.2",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.6"
-  }
+  },
+  "description": "Live Site : https://e-commerce-project-git-main-nikolamrsic.vercel.app/\r **Login in production is currently not available.",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolamrsic/E-commerce-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolamrsic/E-commerce-Project/issues"
+  },
+  "homepage": "https://github.com/nikolamrsic/E-commerce-Project#readme"
 }
